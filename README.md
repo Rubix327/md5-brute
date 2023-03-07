@@ -19,6 +19,7 @@ The tests:
 - Any digits-codes are available
 - Progress is written in percents
 - The code is significantly compressed
+- Added this README
 
 ## v1
 
